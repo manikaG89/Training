@@ -1,0 +1,32 @@
+
+html body{
+    background-color: #ffeead;
+    margin:10px;
+
+}
+
+.container {
+    padding: 10px;
+    text-align: center;
+    font-size: 2em;
+    color:ffeead;
+}
+.container {
+    border: 5px solid#ffcc5c;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around;
+   
+}
+.home {
+    background-color:#96ceb4;
+}
+.search {
+    background-color: #ff6f69;
+}
+.logout { 
+    background-color:#88d8b0;
+}
+.home {
+    order:
+}
