@@ -1,0 +1,32 @@
+html body {
+  background-color: #ffeead;
+  margin: 10px;
+}
+.container {
+    text-align: center;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: repeat(2, 100px);
+}
+
+.container{
+font-size: 2em;
+  color: #0a0a07;
+}
+
+.container > div:nth-child(1n) {
+  background-color: #76c09c;	
+}
+
+.container > div:nth-child(3n) {
+  background-color: #56db99;
+}
+
+.container > div:nth-child(2n) {
+  background-color: #fc5a55;
+}
+
+.container > div:nth-child(4n) {
+  background-color: #ffcc5c;
+}
