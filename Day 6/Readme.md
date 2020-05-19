@@ -9,7 +9,7 @@ the size of 3-4 double-decker buses.
 * 1958- Integrated Circuits(Jack Kilby and Robert Noyce).
 * 1968-Intel Electronics(Robert Noyce).
 
-# Binary Number System
+## Binary Number System
 * Base 2 Number System.
 * Computers only understant 0 and 1.
 * 0 and 1 are also called bit **Binary Digit**.
@@ -23,48 +23,48 @@ the size of 3-4 double-decker buses.
 * 3-11
 * 4-100
 
-# Logic Gates
+## Logic Gates
 * .AND 
 * .OR
 * .NOT
 * .XOR
 * .NAND
 
-# Combinational Circuits
+## Combinational Circuits
 * Half Adder
 * Full Adder
 * Subtractors
 * Multipliers
  
- # Memory Classification
+ ## Memory Classification
  * Registers
  * Cache
  * Primary Memory(RAM)
  * Secondary Memory(Hard Disks etc.)
 
- # Programming Language Hierarchy
+ ## Programming Language Hierarchy
  * Machine Language
  * Assembly Language
  
- # High Level Language
+ ## High Level Language
  Fortran,Algol in 1950s and 60s.
  Compiler-> machine specific assembler-> Machine language.
 
- # Stack and Heap
+ ## Stack and Heap
  * Stack and Heap memory space used by programs.
  * Allocated on RAM
  * Sizes are OS Specific
  * Stack is used for static memory allocation
  * Heap is for dynamic memory allocation
 
- # Stack
+ ## Stack
  * All local variables.
  * All function calls area allocated here.
  * Can't change size once declared.
  * LIFO operation.
  * Uses stack pointer to keep track.
 
- # Heap
+ ## Heap
  * Dynamic variables.
  * Global Access,can be referenced from anywhere in the application.
  * Can be accessed and assigned anywhere.
