@@ -1,15 +1,15 @@
 # What’s the difference between SCSS and Sass?
 
 SCSS        |      Sass
-------------------------------
+----------------------------
 Stands for Sassy CSS| Stands for Syntactically Awesome Style Sheets
-----------------------------------------------------------------------
+
 Similar to CSS (uses curly braces and semicolons)|Uses strict indentation (like Python)
-----------------------------------------------------------------------------------------
+
 Any valid CSS is valid SCSS | CSS code cannot be used as SASS
------------------------------------------------------------------------------
+
 .scss extension|   .sass extension
------------------------------------------------------------------------
+
 
 ### Here’s an example of SCSS:
 ```
